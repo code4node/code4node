@@ -1,5 +1,5 @@
 
-# [Code4Node](http://code4node.com) - short yet simple node.js programming examples
+# [Code4Node](http://code4node.com) - short yet complete node.js programming examples
 
 [code4node.com](http://code4node.com) is a node.js tutorial website. The sources made available here are introduced and explained in the following articles: 
 
