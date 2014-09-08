@@ -7,7 +7,7 @@
 * [Hello World - Express](http://code4node.com/snippet/hello-world-with-express)
 * [HTTP Proxy](http://code4node.com/snippet/http-proxy-with-custom-routing) 
 * [Crop an Image using ImageMagick and node.js](http://code4node.com/snippet/crop-an-image-using-imagemagick)
-* [Resize an Image using ImageMagick and node.js](http://code4node.com/snippet/http://code4node.com/snippet/resize-an-image-using-imagemagick)
+* [Resize an Image using ImageMagick and node.js](http://code4node.com/snippet/resize-an-image-using-imagemagick)
 * [Format a Date with Moment.js and node.js](http://code4node.com/snippet/format-a-date-with-moment-js)
 * [Generate a UUID using node.js](http://code4node.com/snippet/generate-a-uuid)
 * [Getting Started with MongoDB and mongojs](http://code4node.com/snippet/getting-started-with-mongodb-and-mongojs)
